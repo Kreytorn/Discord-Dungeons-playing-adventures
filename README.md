@@ -31,10 +31,10 @@ Follow these steps to use the bot:
 2. Create a channel named "discord-rpg-1" within the server.
 3. Create a Discord bot and add it to your server. If you're unsure how, watch the first 2 minutes of this video.
 4. Obtain the token for your bot.
-5. Use an interface where you can write Python code, such as Python 3.7 or IDLE Python. Download Python from here.
+5. Use an interface where you can write Python code, such as Python 3.7 or IDLE Python. Download Python from [here](https://www.python.org/downloads/).
 6. Copy and paste the provided code.
 7. Replace the TOKEN variable on the 15th line of the code with your bot's token.
-8. Install the required packages listed at the top of the code using the appropriate method for your environment. Refer to the installation guide here.
+8. Install the required packages listed at the top of the code using the appropriate method for your environment. Refer to the installation guide [here](https://docs.netapp.com/oci-73/index.jsp?topic=%2Fcom.netapp.doc.oci-ht-all%2FGUID-B91E7C76-5651-4216-A4FD-000A7BBAA98E.html).
 9. Run the code.
 10. When prompted, enter the name of the user who will be using the bot (without tag and spaces).
     Example: If the user's name is Kreyto#3024, type "Kreyto" without any spaces or additional characters.
