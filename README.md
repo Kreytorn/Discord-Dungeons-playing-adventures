@@ -1,46 +1,45 @@
-# Discord-Dungeons-playing-adventures
-With the power of coding you can you can make this bot play adventures for you.
+# Discord Dungeons Playing Adventures Bot
+With the power of coding, you can automate adventures in Discord Dungeons using this bot.
 
-Playing adventures with discord dungeons:
+## Purpose
+The purpose of this bot is to play adventures in the game Discord Dungeons on your behalf, allowing for rapid leveling and earning of gold.
 
-What is the purpose of this bot?
-This bot plays adventures in the game discord dungeons for you and levels up extremely fast.
+## Earnings Potential
+While the bot can earn around 20,000 gold per hour, its primary benefit lies in its ability to level up quickly.
 
-How much does this bot make?
-Although the bot gives around 20 000 gold per hour, it can level you really fast.
+## What is Discord Dungeons?
+Discord Dungeons is a text-based RPG within Discord, featuring an economy system. For additional information, visit:
 
-What's Discord Dungeons?
-Discord Dungeons is a text based RPG in discord with an econmy system.
-For extra info check:
+[Website](https://discorddungeons.me/)
 
-Website: https://discorddungeons.me/
-Wiki: https://wiki.discorddungeons.me/
-API Docs: http://api.discorddungeons.me/dash/docs/
-Twitter: https://twitter.com/DiscordDungeons
-Steam Group: https://steamcommunity.com/groups/DiscordDungeons
-Subreddit: https://www.reddit.com/r/DiscordDungeons/
-Discord server: https://drpg.xyz/Discord
+[Wiki](https://wiki.discorddungeons.me/)
 
-How do I use this code???
+[API Docs](http://api.discorddungeons.me/dash/docs/)
 
-I will explain it step by step:
+[Twitter](https://twitter.com/DiscordDungeons)
 
-1. Create a server in Discord and add DiscordRPG#0366  bot to your server. Join the discord server to do so (https://drpg.xyz/Discord)
-2. Create a channel in the server that is called "discord-rpg-1" if its anything else it won't work.
-3. Create a discord bot and add it to the server. If you don't know how to create one, check first 2 minutes of this video: https://www.youtube.com/watch?v=Gqurhm2QxA0 
-4.Get the Token of the bot you created.
-5.Open an interface where you can write python code. Such as python 3.7 or idle python. (https://www.python.org/downloads/)
-6. Copy paste the code that I shared.
-7.  There is a variable in the 15'th line of the code that is called TOKEN change it with your bots token.
-8. Install the packages that are at the top of the code the ones that start with import.
-8. Check here to learn how to install https://docs.netapp.com/oci-73/index.jsp?topic=%2Fcom.netapp.doc.oci-ht-all%2FGUID-B91E7C76-5651-4216-A4FD-000A7BBAA98E.html
+[Steam Group](https://steamcommunity.com/groups/DiscordDungeons)
+
+[Subreddit](https://www.reddit.com/r/DiscordDungeons/)
+
+[Discord Server](https://drpg.xyz/Discord)
+
+## How to Use
+Follow these steps to use the bot:
+
+1. Create a server in Discord and add the DiscordRPG#0366 bot to it. Join the Discord server [here](https://www.youtube.com/watch?v=Gqurhm2QxA0).
+2. Create a channel named "discord-rpg-1" within the server.
+3. Create a Discord bot and add it to your server. If you're unsure how, watch the first 2 minutes of this video.
+4. Obtain the token for your bot.
+5. Use an interface where you can write Python code, such as Python 3.7 or IDLE Python. Download Python from here.
+6. Copy and paste the provided code.
+7. Replace the TOKEN variable on the 15th line of the code with your bot's token.
+8. Install the required packages listed at the top of the code using the appropriate method for your environment. Refer to the installation guide here.
 9. Run the code.
-10. When the code is runned it will ask you a question saying "What is the name of the person that is using the bot (without tag and spaces) "
-Example: If your name is Kreyto#3024 you should just type "Kreyto" and thats it no gap or anything else with the correct letters and everything.
-11. After you type the name wait till the code prints  " we have logged into (yourbot)"
-12. Then open the server go to discord-rpg-1 and type #!adv
-13. When you want to use the bot again follow the steps 9-10-11-12
+10. When prompted, enter the name of the user who will be using the bot (without tag and spaces).
+    Example: If the user's name is Kreyto#3024, type "Kreyto" without any spaces or additional characters.
+11. Wait for the confirmation message: "We have logged into (yourbot)."
+12. Open the server, navigate to the "discord-rpg-1" channel, and type #!adv to start an adventure.
+13. To use the bot again, repeat steps 9 through 12.
 
-Enjoy!
-
-If you have any questions contact me on discord Kreyto#3024 👻 
+Enjoy your adventures! If you have any questions, contact Kreyto#3024 on Discord. 👻
