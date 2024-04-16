@@ -1,6 +1,13 @@
 # Discord Dungeons Playing Adventures Bot
 With the power of coding, you can automate adventures in Discord Dungeons using this bot.
 
+![Static Badge](https://img.shields.io/badge/python-Discord-blue?logo=python)
+![Static Badge](https://img.shields.io/badge/IDE-Jupyter-blue)
+![Static Badge](https://img.shields.io/badge/requirements-pynut/time/discord-red)
+![Static Badge](https://img.shields.io/badge/Version-2.0-green)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=macys.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 ## Purpose
 The purpose of this bot is to play adventures in the game Discord Dungeons on your behalf, allowing for rapid leveling and earning of gold.
 
